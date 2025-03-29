@@ -9,5 +9,5 @@ Here's a screenshot of the web page:
 
 ![](gerich-restaurant.png)
 
-Here's a link to the deployed project: https://gericht-restaurant-iota-ten.vercel.app/
+Here's a link to the deployed project: https://gericht-restaurant-frontend-project.vercel.app/
 >>>>>>> 7cd460b (Project Completed)
