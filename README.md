@@ -11,17 +11,21 @@ A fully responsive restaurant website designed to showcase the restaurant’s se
 - Built with reusable and scalable front-end components
 
 ## 📸 Screenshot
-![Restaurant Website Screenshot](gerich-restaurant.png)
+![Restaurant Website Screenshot](gerich-restaurant.png1.png)
+![Restaurant Website Screenshot](gerich-restaurant.png2.png)
+![Restaurant Website Screenshot](gerich-restaurant.png3.png)
+![Restaurant Website Screenshot](gerich-restaurant.png4.png)
+![Restaurant Website Screenshot](gerich-restaurant.png5.png)
 
 
 ## 🔗 Live Link
 - Live Site URL: [Gericht Restaurant Website](https://gericht-restaurant-frontend-project.vercel.app/)
 
 ## 🛠️ Built With
-- 💻 **HTML**
-- 🎨 **CSS**
-- ⚙️ **JavaScript**
-- ⚛️ **React.js**
+- <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+- <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+- <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
 
 ## 👨‍💻 Author
 
